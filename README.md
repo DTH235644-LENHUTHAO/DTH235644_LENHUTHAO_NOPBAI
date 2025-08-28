@@ -1,5 +1,6 @@
 # 👋 Xin chào! Tôi tên là Lê Nhựt Hào  
-
+---
+---
 🌱 Tôi đang học và phát triển kỹ năng về Công Nghệ Thông Tin  
 💻 Thích xây dựng các dự án nhỏ và chia sẻ với cộng đồng  
 🚀 Mục tiêu: trở thành một BackEnd Developer
