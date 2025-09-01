@@ -1,0 +1,6 @@
+Python hổ trợ những kiễu dữ liệu cơ bản nào?
+- Python hổ trợ 4 kiểu dữ liệu cơ bản:
++ Kiểu số nguyên : int
++ Kiểu số thực : float
++ Kiểu Boolean : bool
++ Kiểu số phức : complex
