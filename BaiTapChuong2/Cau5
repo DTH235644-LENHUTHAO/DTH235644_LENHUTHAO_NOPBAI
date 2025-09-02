@@ -1,0 +1,6 @@
+Trình bày các loại ghi chú trong Python
+- Ghi chú một dòng sử dụng dấu #:
+Ví dụ : #Đay là ghi chú một dòng
+- Ghi chú nhiều dòng sử dụng cặp dấu ''' ''':
+Ví dụ : ''' Đây là ghi chú nhiều dòng
+            Trong Python '''

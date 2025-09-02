@@ -1,0 +1,14 @@
+Trong quá trình lập trình, thường gặp ba loại lỗi chính:
+
+Lỗi cú pháp (Syntax Error):
+Xảy ra khi viết sai quy tắc ngôn ngữ, ví dụ thiếu dấu ngoặc, thụt lề sai.
+
+Lỗi thời gian chạy (Runtime Error): 
+Xảy ra khi chương trình đang thực thi, ví dụ chia cho 0, truy cập phần tử ngoài phạm vi.
+
+Lỗi logic (Logical Error): 
+Chương trình chạy nhưng kết quả sai do sai thuật toán hoặc cách tính toán.
+
+Trong Python, có thể bắt lỗi bằng khối try ... except. 
+Khi một đoạn mã trong try phát sinh lỗi, chương trình sẽ chuyển sang except để xử lý, nhờ đó không bị dừng đột ngột. 
+Ngoài ra có thể dùng thêm else (chạy khi không có lỗi) và finally (luôn thực thi dù có lỗi hay không).

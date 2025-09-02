@@ -1,0 +1,13 @@
+'''
+Thứ nhất, dùng hàm input() để nhập dữ liệu dưới dạng chuỗi:
+Ví dụ : x = input("Nhập chuỗi: ")
+
+
+Thứ hai có thể ép kiểu sang số nguyên (int()) hoặc số thực (float()) và các kiểu dữ liệu khác:
+Ví dụ : n = int(input("Nhập số nguyên: "))
+
+
+Thứ ba, có thể nhập nhiều giá trị cùng lúc bằng cách tách chuỗi nhập vào rồi dùng split(),
+kết hợp với map() để chuyển đổi kiểu dữ liệu:
+Ví dụ : a, b = map(int, input("Nhập hai số: ").split())
+'''
