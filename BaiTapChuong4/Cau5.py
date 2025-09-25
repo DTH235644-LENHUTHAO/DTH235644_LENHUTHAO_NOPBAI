@@ -5,5 +5,7 @@ def fibonacci(n):
 def listfibo(n):
  for i in range(1,n+1):
     print(fibonacci(i),end='\t')
-print(fibonacci(9))
-listfibo(9)
+
+n=int(input("Nhập n: "))
+print(fibonacci(n))
+listfibo(n)
